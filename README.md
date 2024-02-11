@@ -1,7 +1,9 @@
 # Vishnu Jangid
 
 ## About Me
-Hello there! I'm Vishnu Jangid, a passionate and dedicated Computer Science enthusiast with a keen interest in exploring and implementing innovative technologies. Currently pursuing a B.Tech in Computer Science and Engineering from the Indian Institute of Information Technology, Una. I thrive in collaborative environments where I can contribute my skills and learn from others.
+Hey there! I'm Vishnu Jangid, a graduate from IIIT Una with a passion for all things tech. I've got my hands dirty with React.js, Node.js, and Blockchain, and during my internship, I worked a cool team in building a decentralized app.
+But it's not all serious stuff—I love a good challenge, which is probably why I've tackled creating an YouTube-clone and a crowdfunding Dapp. Beyond coding, you'll find me actively participating in programming competitions and being part of the awesome coding community at FORCE.
+I'm all about problem-solving, a tech enthusiast at heart, and ready to dive into any project with a collaborative spirit. Let's make some cool things happen! 🚀.
 
 - **Location:** Delhi, India
 - **Email:** vishnu.j8503@gmail.com
@@ -48,6 +50,15 @@ Hello there! I'm Vishnu Jangid, a passionate and dedicated Computer Science enth
   - Worked with a team to develop a fully Decentralized application from scratch, incorporating ReactJs, Blockchain, Solidity, and other technologies.
   
 ## Projects
+### My-YouTube | React App
+- Feb 2024
+  - Developed a YouTube clone using React.js, leveraging the YouTube API for fetching videos and implementing features like YouTube-like search with search suggestion API integration and debouncing for performance optimization. Utilized Tailwind CSS for styling and implemented advanced functionalities including nested comments section and live chat feature.
+
+ ### FoodVilla | React App
+- Jan 2024
+  - Developed a Swiggy clone using React.js, incorporating real-time Swiggy API for fetching restaurant data. Utilized Tailwind CSS for styling and implemented Redux for state management. Implemented Simmer UI for an enhanced user experience.
+  - Technologies: React.js,Tailwind,Redux,React-router-dom
+
 ### Memories | MERN App
 - Jun 2023
   - A MERN app allowing users to share memories, implementing CRUD operations.
