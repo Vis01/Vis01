@@ -7,9 +7,10 @@ I'm all about problem-solving, a tech enthusiast at heart, and ready to dive int
 
 - **Location:** Delhi, India
 - **Email:** vishnu.j8503@gmail.com
-- **LinkedIn:** [Vishnu Jangid](https://www.linkedin.com/in/your-linkedin-profile/)
-- **GitHub:** [VishnuJangid](https://github.com/your-github-profile/)
-- **Portfolio:** [Your Portfolio](https://your-portfolio-url.com)
+- **LinkedIn:** [Vishnu Jangid](https://www.linkedin.com/in/vishnu-jangid-468274218)
+- **GitHub:** [VishnuJangid](https://github.com/Vis01)
+- **Portfolio:** [ Portfolio](https://vishnujangidportfolio.netlify.app/)
+- **Resume:** [Resume](https://bit.ly/VishnuJangidResume)
 
 ## Education
 - **B.Tech - Computer Science and Engineering**
