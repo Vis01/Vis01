@@ -1,6 +1,6 @@
 # Vishnu Jangid
 <h1 align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Chetan.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Vishnu.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 ## About Me
 Hey there! I'm Vishnu Jangid, a graduate from IIIT Una with a passion for all things tech. I've got my hands dirty with React.js, Node.js, and Blockchain, and during my internship, I worked a cool team in building a decentralized app.
